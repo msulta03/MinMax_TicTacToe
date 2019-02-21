@@ -1,0 +1,70 @@
+.jumbotron {
+  background-color: rgba(4, 234, 161, .8);
+  margin-top: 1em;
+  width: 75%;
+}
+
+body {
+  background-color: rgba(27, 28, 30, 1)
+}
+
+.btn {
+  margin-top: 3em;
+}
+
+table {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+tr {
+  font-size: 4em;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-align: center;
+  color: white;
+
+}
+
+.top {
+  border-bottom: 1px solid rgb(71, 216, 194);
+}
+
+.middle {
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+td {
+  height: 3em;
+  width: 3em;
+}
+
+.endgame {
+  display: none;
+  width: 20em;
+  overflow: hidden;
+  top: 50%;
+  left: 39%;
+  position: fixed;
+  background-color: rgba(71, 216, 194, .8);
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+.text{
+  font-size: 4em;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-align: center;
+  margin: 10%;
+
+}
+#n1 {
+  border-top-left-radius: 1em;}
+#n3 {
+    border-top-right-radius: 1em;}
+#n7 {
+  border-bottom-left-radius: 1em;}
+#n9 {
+  border-bottom-right-radius: 1em;}
